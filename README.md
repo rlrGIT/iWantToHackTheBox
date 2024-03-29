@@ -1,2 +1,2 @@
 # iWantToHackTheBox
->:0
+\>:0
