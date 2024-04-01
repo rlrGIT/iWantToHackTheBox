@@ -1,6 +1,6 @@
 # I Want to Hack the Box!
 
-## Learning Process : Mindset
+## Learning Process
 
 March 29th, 2024
 
@@ -74,7 +74,7 @@ March 30th, 2024
 
 ### What is my goal for this course?
 
-#### TODO 500 words specific on what I want to get out of this course?
+#### TODO: 500 words specific on what I want to get out of this course?
 
 ------
 
@@ -89,3 +89,51 @@ March 30th, 2024
 
 - Different kinds of learning have different "efficiencies" or uses for learning. From a memory standpoint, reading, listening, and seeing are weaker, and writing, saying, sing and hearing, and doing are stronger. Each of these modes of learning lets us process information differently, and should be used with their efficiencies in mind. E.g., reading over something that is completely new to you will be helpful, but there's only so much you can get from reading literature. It can help reinforce knowledge, but you should be practicing and trying even if you can't do much for the experience of doing it.
 
+- you don't only need to practice the skill, you need to practice doing the skill efficiently, which in itself is different, and can be heavily influenced by goals and application of occam's razor
+- creativity causes our brain to behave differently
+
+### Questions
+
+- At the moment, we define questions and see their purpose as gathering information and facts from which we can draw conclusions and make assumptions that will guide our decisions and thus our future course of action.
+  - The most important and most difficult thing in any situation is  not the search for the right answer but the search for the right question
+  - It is challenging to seek the right questions when we do not understand the concepts or do now have any knowledge in a particular area in the first place.
+
+### Assessing Question Quality
+
+- How to we structure questions with different levels of detail to get information.
+- How do we ask relevant questions, how does describing a situation help us apply pareto principle and occam's razor towards finding a solution.
+- Questions are based off of origin, process, result/goal.
+- We can design questions with creativity to pursue different avenues of information
+- We can consider what questions have in common, and connect those components
+
+```
+A right question is a precise question that allows us to establish the relationships between the components, to understand them, and to  take us one step further to the required answer.
+```
+
+I wonder if these questions should try to be atomic in nature. It seems like the authors are trying to define a system for framing questions in useful steps in the pursuit of information, which feels a lot like structuring code. 
+
+### Frustration and Success
+
+- Enumeration is key, it is important to have a clear, well defined goal. We can see how the lack of a specific element of our lives can effect our emotions.
+- Vision -> Skills -> Incentives -> Resources -> Action Plan -> ORGANIZATIONAL SUCCESS
+  - If you are lacking one of the nodes in this linked list, it can lead to a different outcome. Try writing down something for each of these values when trying to come up with a goal for yourself, and you can see what you need to do to fill in the gap.
+- It is important to deal with frustration in a controlled and conscious way. Frustration is temporary.
+
+### Keeping Track of Progress
+
+- Progress does not always manifest, but it is critical to be consistent. Change happens more quickly when you are immersed in something, but more important, it is about exposure to more context that makes our practice more powerful. This is also like judo.
+- Other people are often bad judges of progress, but that doesn't mean you can't watch for progress and use progress tracking to see it yourself and use it as a way of improving.
+
+**Exercise:**
+
+```
+List No. 1
+
+On the first list, you write down the current date and everything you know about your desired topic with all your skills with an estimated scale of 1-10. Try to make it as detailed as possible. The more detailed it is, the clearer the difference will be for you to see later. As soon as you think this list is ready, put it down or save it in a way that you will have access to it even after one year.
+
+List No. 2
+
+The second list is written continuously. This means that as soon as you have familiarized yourself with a topic and you have learned something new for yourself, you will add it to this list. Try to learn every day, even if it takes only 10 minutes. If you want to do it more scientifically to get even better results, document the calendar weeks.
+```
+
+This might seem like overkill, but being able to know exactly what you know and what you don't know is imperative for targeting areas of improvement. We are rarely trustworthy narrators in our own heads.
