@@ -1,3 +1,5 @@
+# I Want to Hack the Box!
+
 ## Learning Process : Mindset
 
 March 29th, 2024
@@ -58,5 +60,32 @@ The most straightforward theory is preferable to all others of several sufficien
 - Due to the difference in the variety of situations that can arise during penetration testing, it can be difficult to identify talent. This is because you will rarely be in the same situation twice (like Judo!) and it will take a considerable amount of time to develop and understanding of a bigger picture that can help drive investigative skills.
 - Beyond biological predisposition, development of talent is more important, and can be achieved through carefully designed feedback loops that enable us to practice specific skills and understand their contexts.
 
+------
 
+## Learning Process : Learning Dependencies
+
+March 30th, 2024
+
+### Way of Learning
+
+- Problems are an emotional state. Without emotions, it is just a situation.
+- An essential part of what makes you successful is knowing your goal, because these goals will largely help you define which actions you take along the way (think about how we talked about how to use [Occam's Razor](#Occam's Razor)). We search for a solution, letting our goal of solving this solution (and using the most probable cause) guide our decision making.
+- If you do not know your goal, you can easily make decisions that are counterproductive, e.g. "chair in the middle of the room" example.
+
+### What is my goal for this course?
+
+#### TODO 500 words specific on what I want to get out of this course?
+
+------
+
+### Learning Efficiently
+
+- In order to combine knowledge, adaptation, and information in order to solve problems, we must try to understand both what we know and what we don't know.
+- Failure is an unavoidable and essential process to learning.
+- Pareto principle - with 20% of the effort, we can achieve 80% of the effect; with 80% effort, we can achieve the remaining 20%, which is 100% missing. (Note to self: dunno what this means, but it sounds like "60% of the time it works every time")
+- **Progress is noticeable when the question that tortured us has lost its meaning.**
+
+### Learning Pyramid
+
+- Different kinds of learning have different "efficiencies" or uses for learning. From a memory standpoint, reading, listening, and seeing are weaker, and writing, saying, sing and hearing, and doing are stronger. Each of these modes of learning lets us process information differently, and should be used with their efficiencies in mind. E.g., reading over something that is completely new to you will be helpful, but there's only so much you can get from reading literature. It can help reinforce knowledge, but you should be practicing and trying even if you can't do much for the experience of doing it.
 
