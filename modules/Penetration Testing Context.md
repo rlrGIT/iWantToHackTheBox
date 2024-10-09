@@ -12,7 +12,7 @@
 
 - Approach to scan for known vulnerabilities
 
-- Analyze for potential vulnerabilities (think outside the box) - look for unintended consequencse
+- Analyze for potential vulnerabilities (think outside the box) - look for unintended consequences. 
 
   
 
